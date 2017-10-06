@@ -1,0 +1,4 @@
+baseURL = "https://netlify.sainome.com"
+languageCode = "en-us"
+title = "Netlify Sainome"
+theme = "ananke"
